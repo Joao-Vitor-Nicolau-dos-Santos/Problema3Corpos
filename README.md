@@ -25,7 +25,7 @@ Instale os pacotes com:
 pip install pygame matplotlib
 ```
 
-##▶️ Como executar
+▶️ Como executar
 Clone ou baixe o repositório.
 
 Execute o script principal:
@@ -36,7 +36,10 @@ python testeGravitacional.py
 ---
 
 📜 Logs e Gráficos 
+
+
 📝 Logs de Posição
+
 A cada atualização da simulação, as posições de todos os corpos são salvas em um arquivo .txt localizado na pasta logs/.
 
 Exemplo de linha de log:
@@ -46,6 +49,7 @@ Esses logs podem ser utilizados para análise posterior ou reprocessamento.
 ---
 
 📈 Gráfico Final da Simulação
+
 Ao final da execução, é salvo automaticamente um gráfico .png com a trilha de cada corpo:
 
 Local: rotas/simulacao_YYYYMMDD_HHMMSS.png
@@ -57,8 +61,12 @@ Cores correspondem às usadas na visualização do Pygame
 Ideal para incluir em relatórios ou artigos científicos
 
 Exemplo:
+
+
+
 <img src="simulacao_20250728_122552.png" alt="Simulação dos 3 Corpos" width="500"/>
 
 ---
 🎮 Controles
+
 P - pausa a simulação.
