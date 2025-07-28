@@ -57,7 +57,7 @@ Cores correspondem às usadas na visualização do Pygame
 Ideal para incluir em relatórios ou artigos científicos
 
 Exemplo:
-![Simulação dos 3 Corpos](simulacao_20250728_122552.png)
+<img src="simulacao_20250728_122552.png" alt="Simulação dos 3 Corpos" width="500"/>
 
 ---
 🎮 Controles
